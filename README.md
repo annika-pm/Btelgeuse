@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 ## Hi, I'm Annika P M — a curious builder blending tech, creativity, and purpose.<br>💡 I turn ideas into code — from AI models to apps that matter.<br><br>🔭 Currently exploring Android, AI/ML.<br><br>🚀 Always learning, always shipping.<br><br>
-[LinkedIn[https://www.linkedin.com/in/annika-p-m/]]<br><br>
+
 
 
 ## 🌐 Socials:
